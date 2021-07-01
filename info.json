@@ -11,8 +11,8 @@
 		"changelog" : "<h4>1.1 –  July 1, 2021</h4><ul><li>Release date.</li></ul>"
 	},
 	"banners" : {
-		"low" : "https://postbot-api.osaze.media/postbot-mobile.png",
-		"high" : "https://postbot-api.osaze.media/postbot-desktop.png"
+		"low" : "https://postbot-api.osaze.media/postbot-img.jpg",
+		"high" : "https://postbot-api.osaze.media/postbot-img.jpg"
 	},
 	"screenshots" : "<ol><li><a href='https://postbot-api.osaze.media/postbot-desktop.png' target='_blank'><img src='https://postbot-api.osaze.media/postbot-desktop.png' alt='PostBot Plugin' /></a><p>PostBot Plugin</p></li></ol>"
 }
