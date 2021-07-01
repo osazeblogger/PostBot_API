@@ -14,5 +14,5 @@
 		"low" : "https://postbot-api.osaze.media/postbot-img.jpg",
 		"high" : "https://postbot-api.osaze.media/postbot-img.jpg"
 	},
-	"screenshots" : "<ol><li><a href='https://postbot-api.osaze.media/postbot-desktop.png' target='_blank'><img src='https://postbot-api.osaze.media/postbot-desktop.png' alt='PostBot Plugin' /></a><p>PostBot Plugin</p></li></ol>"
+	"screenshots" : "<ol><li><a href='https://postbot-api.osaze.media/postbot-img.jpg' target='_blank'><img src='https://postbot-api.osaze.media/postbot-img.jpg' alt='PostBot Plugin' /></a><p>PostBot Plugin</p></li></ol>"
 }
