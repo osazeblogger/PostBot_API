@@ -1,0 +1,18 @@
+{
+	"version" => "1.1",
+	"download_url" : "https://postbot-api.osaze.media/plugin-files/postbot.zip",
+	"requires" : "3.0",
+	"tested" : "5.7.2",
+	"requires_php" : "7.3",
+	"last_updated" : "2021-07-01 01:00:00",
+	"sections" : {
+		"description" : "PostBot is the most popular and most robust plugin for importing, scraping, and displaying RSS feeds and Atom feeds anywhere on your WordPress website. Add your sources and let the plugin do the leg-work.",
+		"installation" : "Upload the plugin to your blog, Activate it, that's it!",
+		"changelog" : "<h4>1.1 –  July 1, 2021</h4><ul><li>Release date.</li></ul>"
+	},
+	"banners" : {
+		"low" : "https://postbot-api.osaze.media/postbot-mobile.png",
+		"high" : "https://postbot-api.osaze.media/postbot-desktop.png"
+	},
+	"screenshots" : "<ol><li><a href='https://postbot-api.osaze.media/postbot-desktop.png' target='_blank'><img src='https://postbot-api.osaze.media/postbot-desktop.png' alt='PostBot Plugin' /></a><p>PostBot Plugin</p></li></ol>"
+}
