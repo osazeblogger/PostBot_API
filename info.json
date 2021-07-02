@@ -1,6 +1,6 @@
 {
 	"version" : "1.2",
-	"download_url" : "https://postbot-api.osaze.media/plugin-files/PostBot-ver2.zip",
+	"download_url" : "https://postbot-api.osaze.media/plugin-files/PostBot-version-2.zip",
 	"requires" : "3.0",
 	"tested" : "5.7.2",
 	"requires_php" : "7.3",
